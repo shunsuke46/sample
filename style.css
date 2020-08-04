@@ -1,0 +1,7 @@
+@charset "utf-8";
+
+h1 {
+  font-weight: bold;
+  font-size: 20px;
+  border-bottom: 1px solid #000;
+}
